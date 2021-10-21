@@ -1,0 +1,27 @@
+{
+  "typ": "Blok",
+  "instrukcje": [
+    {
+      "typ": "Plus",
+      "argument1": {
+        "wartosc": 2.0,
+        "typ": "Liczba"
+      },
+      "argument2": {
+        "wartosc": 5.0,
+        "typ": "Liczba"
+      }
+    },
+    {
+      "typ": "Minus",
+      "argument1": {
+        "wartosc": 7.0,
+        "typ": "Liczba"
+      },
+      "argument2": {
+        "wartosc": 8.0,
+        "typ": "Liczba"
+      }
+    }
+  ]
+}
